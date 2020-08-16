@@ -1,0 +1,27 @@
+h2{
+   color: salmon;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: normal;
+   border-bottom: 2px dotted salmon;
+}
+
+.emphasis{
+    background-color: #006381;
+    color: pink;
+    font-style: normal;
+}
+
+.sky {
+    color: rgb(36, 187, 48);
+    font-style: oblique;
+    font-size: medium;
+    width: 100%;
+}
+
+#ocean{
+    color: royalblue;
+    font-style: oblique;
+    text-align: left;
+    text-decoration:underline;
+    letter-spacing: 2px;
+}
